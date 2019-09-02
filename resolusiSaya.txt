@@ -1,3 +1,4 @@
 -Belajar javaScript dan Jquery
 -Belajar CSS dan Bootstrap
 -Belajar AJAX dan JSON
+-Belajar Laravel
